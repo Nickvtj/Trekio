@@ -1,6 +1,6 @@
 .travelGuide__content {
     border-radius: var(--border-radius);
-    height: 8rem;
+    height: 6rem;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -26,7 +26,7 @@
 }
 
 .travelGuide__item-information p {
-    font-size: 0.7rem;
+    font-size: 0.9rem;
     color: var(--color-secondary)
 }
 
